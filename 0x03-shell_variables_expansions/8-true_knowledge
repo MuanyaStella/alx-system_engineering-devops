@@ -1,0 +1,2 @@
+#!/bin/bash
+escho $((128 + $TRUEKNOWLWDGE))
